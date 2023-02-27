@@ -2,7 +2,7 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-function Cards() {
+function Item() {
   return (
     <div className='container'>
         <Card className='text-center' style={{ width: '18rem' }}>
@@ -20,4 +20,4 @@ function Cards() {
   );
 }
 
-export default Cards;
+export default Item;

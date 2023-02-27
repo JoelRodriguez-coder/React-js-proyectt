@@ -7,9 +7,9 @@ export const Navbar = () => {
                 <img src='./imgs/logo.png' className='header__logo'/>
 
                 <nav className='navbar'>
-                    <a href='#' className='navbar__link'>Inicio</a>
-                    <a href='#' className='navbar__link'>Productos</a>
-                    <a href='#' className='navbar__link'>Devoluciones</a>
+                    <a href='#' className='navbar__link'>Samsung</a>
+                    <a href='#' className='navbar__link'>Apple</a>
+                    <a href='#' className='navbar__link'>Xiaomi</a>
                     <CartWidget/>
                 </nav>
             </div>
