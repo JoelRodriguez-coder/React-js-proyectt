@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Iphone 23 Pro",
+        "description": "6.3 128GB 9RAM",
+        "price": 736695,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_796892-MLA46114829828_052021-V.jpg",
+        "category": "apple"
+    },
+    {
+        "id": 2,
+        "name": "Apple Iphone 44 Max",
+        "description": "5.9 254GB 12RAM",
+        "price": 1000800,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_739045-MLA53133189436_012023-V.jpg",
+        "category": "apple"
+    },
+    {
+        "id": 3,
+        "name": "Samsung A80 Oled",
+        "description": "6.6 64GB 24RAM",
+        "price": 188800,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_654151-MLA53448775145_012023-V.jpg",
+        "category": "samsung"
+    },
+    {
+        "id": 4,
+        "name": "Samsung s23 Ultra",
+        "description": "6.0 320GB 20RAM",
+        "price": 459999,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_855310-MLA45401289761_032021-V.jpg",
+        "category": "samsung"
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi Note 999",
+        "description": "6.3 400GB 32RAM",
+        "price": 500000,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_692737-MLA54194670702_032023-V.jpg",
+        "category": "xiaomi"
+    },
+    {
+        "id": 6,
+        "name": "Xiaomi 12s Ultra ",
+        "description": "5.7 380GB 32RAM",
+        "price": 252800,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_738844-MLA52594792534_112022-V.jpg",
+        "category": "xiaomi"
+    }
+]
