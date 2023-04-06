@@ -24,7 +24,7 @@ export const Navbar = () => {
             </div>
             <div className="login-state container">
                     <h6>Bienvendio { user.email}</h6>
-                    <button className="btn btn-danger" onClick={logout}>Logout</button>
+                    <button className="btn btn-danger" onClick={logout}>Cerrar sesion</button>
             </div>
         </header>
     )
