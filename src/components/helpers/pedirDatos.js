@@ -5,7 +5,7 @@ import MOCK_DATA from '../../components/data/MOCK_DATA.json'
         // cuerpo de la promesa
         setTimeout(() => {
             resolve(MOCK_DATA)
-        }, 3000)
+        }, 800)
     })
 }
 
